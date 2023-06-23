@@ -1,4 +1,4 @@
-# SpaceShipGame2
+# Space Ship Game
 Simple space ship game created with opengl
 
 This is a simple game with contralable space ship via the arrow keys. As you pick up power-ups the object will dissapear 
